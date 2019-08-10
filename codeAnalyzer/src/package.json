@@ -1,0 +1,22 @@
+{
+  "name": "codeanalyzer",
+  "version": "1.0.0",
+  "description": "project test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhay",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "async": "^3.1.0",
+    "bunyan": "^1.8.12",
+    "eslint": "^5.16.0",
+    "mongodb": "^2.2.28",
+    "request": "^2.88.0"
+  }
+}
